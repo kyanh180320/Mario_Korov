@@ -11,7 +11,7 @@
                     "id": "36c47abe-bf9e-410c-82b8-cc482057293a",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": "",
+                    "interactions": "Hold",
                     "initialStateCheck": false
                 },
                 {
@@ -29,17 +29,6 @@
                     "name": "",
                     "id": "828e4c34-f1bd-4bbb-86f9-e03e31f9d93a",
                     "path": "<Keyboard>/space",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Jump",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "d304eb42-6188-4bec-bcb9-447e3aa2397f",
-                    "path": "<Keyboard>/upArrow",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
